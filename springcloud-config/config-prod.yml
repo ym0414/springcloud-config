@@ -1,2 +1,2 @@
-config
+config:
   infos: "prod                            -v=1"
